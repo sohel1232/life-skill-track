@@ -11,7 +11,7 @@
 5. **Respond appropriately:** Offer empathy and support, and don’t make it about yourself.
 6. **Be patient:** Allow the speaker to express themselves fully without rushing.
 
-[Watch the video on Active Listening](https://www.youtube.com/watch?v=rzsVh8YwZEQ)
+
 
 ## Reflective Listening
 
