@@ -45,3 +45,10 @@ This query calculates the sum of the `salary` column from the `employees` table 
 SQL is a versatile language that allows users to interact with databases efficiently. In this report, we explored the basics of SQL, including querying data, performing joins to combine data from multiple tables, and using aggregations to analyze data. Understanding these fundamental concepts is essential for anyone working with databases, as they form the building blocks of data manipulation and analysis. With SQL, users have the tools to extract valuable insights from data and make informed decisions.
 
 Save this content in a file with a `.md` extension to create a Markdown file. Let me know if you need further assistance!
+
+## References
+
+- For more information on SQL basics: W3Schools SQL Tutorial
+- For detailed explanations of SQL joins: SQL Joins Explained Visually
+- For a comprehensive guide to SQL aggregations: SQL Aggregate Functions
+
