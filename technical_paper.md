@@ -48,7 +48,6 @@ Save this content in a file with a `.md` extension to create a Markdown file. Le
 
 ## References
 
-- For more information on SQL basics: W3Schools SQL Tutorial
-- For detailed explanations of SQL joins: SQL Joins Explained Visually
-- For a comprehensive guide to SQL aggregations: SQL Aggregate Functions
-
+- For more information on SQL basics: [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+- For detailed explanations of SQL joins: [SQL Joins Explained Visually](https://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
+- For a comprehensive guide to SQL aggregations: [SQL Aggregate Functions](https://www.sqltutorial.org/sql-aggregate-functions/)
