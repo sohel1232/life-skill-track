@@ -4,16 +4,6 @@
 
 Deep Work, as defined by Cal Newport, involves focused, undistracted work on cognitively demanding tasks. It's the ability to concentrate without distraction on a mentally demanding task, allowing you to produce better results in less time.
 
-### 2. Optimal duration for deep work
-
-The optimal duration for deep work varies among individuals. Cal Newport suggests starting with shorter periods, like an hour or so, and gradually increasing the duration based on personal productivity and attention span.
-
-### 3. Are deadlines good for productivity?
-
-Deadlines can be both beneficial and detrimental to productivity. While they provide a sense of urgency and focus, they can also induce stress and decrease the quality of work if not managed properly.
-
-### 4. Summary of Deep Work Book
-
 **Question 2: According to the author, how to do deep work properly, in a few points?**
 
 - **Eliminate Distractions:** Remove or minimize potential interruptions like email notifications, social media, etc.
@@ -27,8 +17,6 @@ Deadlines can be both beneficial and detrimental to productivity. While they pro
 - Create a Distraction-Free Environment: Minimize distractions by turning off notifications and finding a quiet workspace.
 - Prioritize Tasks: Identify high-value tasks that require deep focus and tackle them during your designated deep work sessions.
 - Practice Regularly: Consistently engage in deep work sessions to train your ability to focus and increase productivity.
-
-### 5. Dangers of Social Media
 
 **Question 4: What are the dangers of social media, in brief?**
 
